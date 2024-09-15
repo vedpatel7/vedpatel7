@@ -1,4 +1,4 @@
-# 💫 Hello  , I am VEDLOPER
+# 💫 Hello  , I am VEDELOPER
 🌱 I’m  MERN Stack Developer<br>💬 Ask me about  DSA , CP , Web develpoment<br>📫 How to reach me: vedpatel@gmail.com
 
 
